@@ -313,6 +313,11 @@ ul {
         padding-top:60px;
         transition:0.5s;
     }
+    
+    .nav__close {
+        position:fixed;
+        right:38px;
+    }
 
     .nav__link {
         padding:12px 12px 12px 32px;
